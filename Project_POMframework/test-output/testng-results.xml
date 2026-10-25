@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-10-24T11:48:31 IST" name="Default suite" finished-at="2026-10-24T11:48:39 IST" duration-ms="7813">
+  <suite started-at="2026-10-25T23:16:52 IST" name="Default suite" finished-at="2026-10-25T23:17:00 IST" duration-ms="8036">
     <groups>
     </groups>
-    <test started-at="2026-10-24T11:48:31 IST" name="Default test" finished-at="2026-10-24T11:48:39 IST" duration-ms="7813">
-      <class name="Tests.BlogTest">
-        <test-method is-config="true" signature="launch()[pri:0, instance:Tests.BlogTest@78691363]" started-at="2026-10-24T11:48:31 IST" name="launch" finished-at="2026-10-24T11:48:38 IST" duration-ms="6861" status="PASS">
+    <test started-at="2026-10-25T23:16:52 IST" name="Default test" finished-at="2026-10-25T23:17:00 IST" duration-ms="8036">
+      <class name="Tests.Stepthreetest">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:Tests.Stepthreetest@1bb5a082]" started-at="2026-10-25T23:16:52 IST" name="launchbrowser" finished-at="2026-10-25T23:16:59 IST" duration-ms="7346" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launch -->
-        <test-method signature="radio()[pri:0, instance:Tests.BlogTest@78691363]" started-at="2026-10-24T11:48:38 IST" name="radio" finished-at="2026-10-24T11:48:39 IST" duration-ms="875" status="PASS">
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="Test()[pri:0, instance:Tests.Stepthreetest@1bb5a082]" started-at="2026-10-25T23:16:59 IST" name="Test" finished-at="2026-10-25T23:17:00 IST" duration-ms="601" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- radio -->
-      </class> <!-- Tests.BlogTest -->
+        </test-method> <!-- Test -->
+      </class> <!-- Tests.Stepthreetest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
