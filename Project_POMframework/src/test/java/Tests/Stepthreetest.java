@@ -13,7 +13,7 @@ public class Stepthreetest extends StepOnebase{
 	void Test() {
 		
 		page1 = new Steptwopages(driver);
-		page1.Enterusername("lavkesh");\
+		page1.Enterusername("lavkesh");
 		page1.Enterpassword("dongre");
 		page1.clickbtn();
 		
